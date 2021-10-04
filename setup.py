@@ -11,7 +11,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     author='chaosannals',
     author_email='chaosannals@outlook.com',
-    url='https://github.com/chaosannals',
+    url='https://github.com/chaosannals/hotjb-python',
     license='MIT',
     packages=setuptools.find_packages(),
     install_requires=[
